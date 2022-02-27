@@ -1,6 +1,5 @@
 TODO (order of priority):
 
-Checklist for types of coins (option to get rid of plat and elec at least)
 Make it look nicer in general
 Save "Wallet"? Database stuff?
 Other inventory items? Tabs?
